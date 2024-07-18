@@ -2,24 +2,27 @@
 
 <details>
 
-<summary><strong>Naučite hakovanje AWS-a od nule do heroja sa</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+{% hint style="success" %}
+Naučite i vežbajte hakovanje AWS-a:<img src="/.gitbook/assets/image.png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src="/.gitbook/assets/image.png" alt="" data-size="line">\
+Naučite i vežbajte hakovanje GCP-a: <img src="/.gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src="/.gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
-Drugi načini podrške HackTricks-u:
+<details>
 
-* Ako želite da vidite **vašu kompaniju reklamiranu na HackTricks-u** ili **preuzmete HackTricks u PDF formatu** proverite [**PLANOVE ZA ČLANSTVO**](https://github.com/sponsors/carlospolop)!
-* Nabavite [**zvanični PEASS & HackTricks merch**](https://peass.creator-spring.com)
-* Otkrijte [**The PEASS Family**](https://opensea.io/collection/the-peass-family), našu kolekciju ekskluzivnih [**NFT-ova**](https://opensea.io/collection/the-peass-family)
-* **Pridružite se** 💬 [**Discord grupi**](https://discord.gg/hRep4RUj7f) ili [**telegram grupi**](https://t.me/peass) ili me **pratite** na **Twitteru** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Podelite svoje hakovanje trikove slanjem PR-ova na** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repozitorijume.
+<summary>Podržite HackTricks</summary>
+
+* Proverite [**planove pretplate**](https://github.com/sponsors/carlospolop)!
+* **Pridružite se** 💬 [**Discord grupi**](https://discord.gg/hRep4RUj7f) ili [**telegram grupi**](https://t.me/peass) ili nas **pratite** na **Twitteru** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **Podelite hakovanje trikova slanjem PR-ova na** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repozitorijume.
 
 </details>
+{% endhint %}
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
 _Hacktricks logotipi i animacije dizajnirani od strane_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Dobrodošli na stranicu gde ćete pronaći svaki **hakerski trik/tehniku/šta god vezano za CI/CD & Cloud** koji sam naučio u **CTF-ovima**, **stvarnim** okruženjima, **istraživanjima** i **čitanjem** istraživanja i vesti.
+Dobrodošli na stranicu gde ćete pronaći svaki **hakerski trik/tehniku/šta god vezano za CI/CD & Cloud** koji sam naučio u **CTF-ovima**, **pravom** životu **okruženjima**, **istraživanjima**, i **čitanjem** istraživanja i vesti.
 {% endhint %}
 
 ## **Pentesting CI/CD Metodologija**
@@ -43,7 +46,7 @@ Dobrodošli na stranicu gde ćete pronaći svaki **hakerski trik/tehniku/šta go
 **Proverite ih na:**
 
 {% content-ref url="https://app.gitbook.com/s/-L_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq" %}
-[HackTricks Vrednosti & ČPP (Često Postavljana Pitanja)](https://app.gitbook.com/s/-L\_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
+[HackTricks Vrednosti & ČPP](https://app.gitbook.com/s/-L\_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
 {% endcontent-ref %}
 
 ## Github Statistike
@@ -53,14 +56,17 @@ Dobrodošli na stranicu gde ćete pronaći svaki **hakerski trik/tehniku/šta go
 
 <details>
 
-<summary><strong>Naučite hakovanje AWS-a od nule do heroja sa</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+{% hint style="success" %}
+Naučite i vežbajte hakovanje AWS-a:<img src="/.gitbook/assets/image.png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src="/.gitbook/assets/image.png" alt="" data-size="line">\
+Naučite i vežbajte hakovanje GCP-a: <img src="/.gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src="/.gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
-Drugi načini podrške HackTricks-u:
+<details>
 
-* Ako želite da vidite **vašu kompaniju reklamiranu na HackTricks-u** ili **preuzmete HackTricks u PDF formatu** proverite [**PLANOVE ZA ČLANSTVO**](https://github.com/sponsors/carlospolop)!
-* Nabavite [**zvanični PEASS & HackTricks merch**](https://peass.creator-spring.com)
-* Otkrijte [**The PEASS Family**](https://opensea.io/collection/the-peass-family), našu kolekciju ekskluzivnih [**NFT-ova**](https://opensea.io/collection/the-peass-family)
-* **Pridružite se** 💬 [**Discord grupi**](https://discord.gg/hRep4RUj7f) ili [**telegram grupi**](https://t.me/peass) ili me **pratite** na **Twitteru** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Podelite svoje hakovanje trikove slanjem PR-ova na** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repozitorijume.
+<summary>Podržite HackTricks</summary>
+
+* Proverite [**planove pretplate**](https://github.com/sponsors/carlospolop)!
+* **Pridružite se** 💬 [**Discord grupi**](https://discord.gg/hRep4RUj7f) ili [**telegram grupi**](https://t.me/peass) ili nas **pratite** na **Twitteru** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **Podelite hakovanje trikova slanjem PR-ova na** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repozitorijume.
 
 </details>
+{% endhint %}
