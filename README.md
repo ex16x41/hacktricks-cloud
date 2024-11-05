@@ -10,7 +10,7 @@ Aprende y practica Hacking en GCP: <img src=".gitbook/assets/image (2).png" alt=
 
 * Revisa los [**planes de suscripción**](https://github.com/sponsors/carlospolop)!
 * **Únete al** 💬 [**grupo de Discord**](https://discord.gg/hRep4RUj7f) o al [**grupo de telegram**](https://t.me/peass) o **síguenos** en **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Comparte trucos de hacking enviando PRs a los** [**HackTricks**](https://github.com/carlospolop/hacktricks) y [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repositorios de github.
+* **Comparte trucos de hacking enviando PRs a los** [**HackTricks**](https://github.com/carlospolop/hacktricks) y [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repos de github.
 
 </details>
 {% endhint %}
@@ -20,7 +20,7 @@ Aprende y practica Hacking en GCP: <img src=".gitbook/assets/image (2).png" alt=
 _Los logos y el diseño en movimiento de Hacktricks son de_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Bienvenido a la página donde encontrarás cada **truco/técnica de hacking/cualquier cosa relacionada con CI/CD y Cloud** que he aprendido en **CTFs**, **la** vida **real**, **investigando** y **leyendo** investigaciones y noticias.
+Bienvenido a la página donde encontrarás cada **truco/técnica de hacking/cualquier cosa relacionada con CI/CD y Cloud** que he aprendido en **CTFs**, **entornos** de **vida** **real**, **investigando**, y **leyendo** investigaciones y noticias.
 {% endhint %}
 
 ### **Metodología de Pentesting CI/CD**
@@ -61,7 +61,7 @@ Aprende y practica Hacking en GCP: <img src=".gitbook/assets/image (2).png" alt=
 
 * Revisa los [**planes de suscripción**](https://github.com/sponsors/carlospolop)!
 * **Únete al** 💬 [**grupo de Discord**](https://discord.gg/hRep4RUj7f) o al [**grupo de telegram**](https://t.me/peass) o **síguenos** en **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Comparte trucos de hacking enviando PRs a los** [**HackTricks**](https://github.com/carlospolop/hacktricks) y [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repositorios de github.
+* **Comparte trucos de hacking enviando PRs a los** [**HackTricks**](https://github.com/carlospolop/hacktricks) y [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repos de github.
 
 </details>
 {% endhint %}
