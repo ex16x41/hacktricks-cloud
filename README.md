@@ -17,10 +17,10 @@
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Λογότυπα Hacktricks & κίνηση σχεδιασμένα από_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν από_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Καλώς ήρθατε στη σελίδα όπου θα βρείτε κάθε **κόλπο/τεχνική hacking/οτιδήποτε σχετίζεται με CI/CD & Cloud** που έχω μάθει σε **CTFs**, **πραγματικά** περιβάλλοντα **ζωής**, **έρευνες**, και **ανάγνωση** ερευνών και ειδήσεων.
+Καλώς ήρθατε στη σελίδα όπου θα βρείτε κάθε **κόλπο/τεχνική hacking/οτιδήποτε σχετίζεται με CI/CD & Cloud** που έχω μάθει σε **CTFs**, **πραγματικές** συνθήκες **ζωής**, **έρευνες**, και **διάβασμα** ερευνών και ειδήσεων.
 {% endhint %}
 
 ### **Μεθοδολογία Pentesting CI/CD**
