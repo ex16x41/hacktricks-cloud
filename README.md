@@ -10,7 +10,7 @@ GCP 해킹을 배우고 연습하세요: <img src=".gitbook/assets/image (2).png
 
 * [**구독 계획**](https://github.com/sponsors/carlospolop) 확인하기!
 * **💬 [**Discord 그룹**](https://discord.gg/hRep4RUj7f) 또는 [**텔레그램 그룹**](https://t.me/peass)에 참여하거나 **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**를 팔로우하세요.**
-* **[**HackTricks**](https://github.com/carlospolop/hacktricks) 및 [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) 깃허브 리포에 PR을 제출하여 해킹 트릭을 공유하세요.**
+* **[**HackTricks**](https://github.com/carlospolop/hacktricks) 및 [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) 깃허브 리포지토리에 PR을 제출하여 해킹 트릭을 공유하세요.**
 
 </details>
 {% endhint %}
@@ -20,7 +20,7 @@ GCP 해킹을 배우고 연습하세요: <img src=".gitbook/assets/image (2).png
 _Hacktricks 로고 및 모션 디자인은_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_에 의해 제작되었습니다._
 
 {% hint style="success" %}
-CI/CD 및 클라우드와 관련된 각 **해킹 트릭/기술/무엇이든**을 찾을 수 있는 페이지에 오신 것을 환영합니다. 이 모든 것은 **CTFs**, **실제** 환경, **연구**, 그리고 **연구 및 뉴스 읽기**를 통해 배운 것입니다.
+CI/CD 및 클라우드와 관련된 각 **해킹 트릭/기술/무엇이든**을 찾을 수 있는 페이지에 오신 것을 환영합니다. 이 모든 것은 **CTFs**, **실제** 환경, **연구**, **연구 및 뉴스 읽기**를 통해 배운 것입니다.
 {% endhint %}
 
 ### **CI/CD 펜테스팅 방법론**
@@ -61,7 +61,7 @@ GCP 해킹을 배우고 연습하세요: <img src=".gitbook/assets/image (2).png
 
 * [**구독 계획**](https://github.com/sponsors/carlospolop) 확인하기!
 * **💬 [**Discord 그룹**](https://discord.gg/hRep4RUj7f) 또는 [**텔레그램 그룹**](https://t.me/peass)에 참여하거나 **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**를 팔로우하세요.**
-* **[**HackTricks**](https://github.com/carlospolop/hacktricks) 및 [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) 깃허브 리포에 PR을 제출하여 해킹 트릭을 공유하세요.**
+* **[**HackTricks**](https://github.com/carlospolop/hacktricks) 및 [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) 깃허브 리포지토리에 PR을 제출하여 해킹 트릭을 공유하세요.**
 
 </details>
 {% endhint %}
