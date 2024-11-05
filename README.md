@@ -33,7 +33,7 @@ CI/CDおよびクラウドに関連する各**ハッキングトリック/テク
 
 ### クラウドペンテスト方法論
 
-**HackTricks Cloud方法論では、クラウド環境のペンテスト方法を見つけることができます。** 次のページを読んで**イントロダクション**を確認してください：
+**HackTricksクラウド方法論では、クラウド環境のペンテスト方法を見つけることができます。** 次のページを読んで**イントロダクション**を確認してください：
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -47,9 +47,9 @@ CI/CDおよびクラウドに関連する各**ハッキングトリック/テク
 [HackTricksの価値とFAQ](https://app.gitbook.com/s/-L\_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
 {% endcontent-ref %}
 
-### GitHub統計
+### Github統計
 
-![HackTricks Cloud GitHub統計](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
+![HackTricks Cloud Github Stats](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
 AWSハッキングを学び、実践する：<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
