@@ -39,7 +39,7 @@ Benvenuto nella pagina dove troverai ogni **trucco/tecnica/qualunque cosa relati
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-### Licenza & Disclaimer
+### Licenza & Dichiarazione
 
 **Controllali in:**
 
