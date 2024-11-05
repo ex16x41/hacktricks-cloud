@@ -6,7 +6,7 @@ Leer & oefen GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-s
 
 <details>
 
-<summary>Ondersteun HackTricks</summary>
+<summary>Support HackTricks</summary>
 
 * Kyk na die [**subskripsie planne**](https://github.com/sponsors/carlospolop)!
 * **Sluit aan by die** 💬 [**Discord groep**](https://discord.gg/hRep4RUj7f) of die [**telegram groep**](https://t.me/peass) of **volg** ons op **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
@@ -20,7 +20,7 @@ Leer & oefen GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-s
 _Hacktricks logo's & beweging ontwerp deur_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Welkom by die bladsy waar jy elke **hacking truuk/tegniek/iets wat verband hou met CI/CD & Cloud** kan vind wat ek geleer het in **CTFs**, **werklike** lewe **omgewings**, **navorsing**, en **lees** navorsings en nuus.
+Welkom by die bladsy waar jy elke **hacking truuk/tegniek/iets wat verband hou met CI/CD & Cloud** sal vind wat ek geleer het in **CTFs**, **werklike** lewe **omgewings**, **navorsing**, en **lees** navorsings en nuus.
 {% endhint %}
 
 ### **Pentesting CI/CD Metodologie**
@@ -57,7 +57,7 @@ Leer & oefen GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-s
 
 <details>
 
-<summary>Ondersteun HackTricks</summary>
+<summary>Support HackTricks</summary>
 
 * Kyk na die [**subskripsie planne**](https://github.com/sponsors/carlospolop)!
 * **Sluit aan by die** 💬 [**Discord groep**](https://discord.gg/hRep4RUj7f) of die [**telegram groep**](https://t.me/peass) of **volg** ons op **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
