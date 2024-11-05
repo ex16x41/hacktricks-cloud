@@ -10,7 +10,7 @@ Ucz się i ćwicz GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" d
 
 * Sprawdź [**plany subskrypcyjne**](https://github.com/sponsors/carlospolop)!
 * **Dołącz do** 💬 [**grupy Discord**](https://discord.gg/hRep4RUj7f) lub [**grupy telegramowej**](https://t.me/peass) lub **śledź** nas na **Twitterze** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Podziel się trikami hackingowymi, przesyłając PR-y do** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repozytoriów na GitHubie.
+* **Podziel się trikami hackingowymi, przesyłając PR-y do** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repozytoriów github.
 
 </details>
 {% endhint %}
@@ -20,12 +20,12 @@ Ucz się i ćwicz GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" d
 _Loga Hacktricks i animacje zaprojektowane przez_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Witamy na stronie, na której znajdziesz każdy **trik/technikę/hacking związany z CI/CD i Chmurą**, którego nauczyłem się w **CTF-ach**, **prawdziwych** środowiskach **życiowych**, **badaniach** oraz **czytając** badania i wiadomości.
+Witamy na stronie, na której znajdziesz każdy **trik/technikę/hacking związany z CI/CD i Chmurą**, którego nauczyłem się w **CTF-ach**, **prawdziwych** środowiskach **życiowych**, **badaniach** i **czytaniu** badań oraz wiadomości.
 {% endhint %}
 
 ### **Metodologia Pentestingu CI/CD**
 
-**W metodologii CI/CD HackTricks znajdziesz, jak przeprowadzić pentesting infrastruktury związanej z działalnością CI/CD.** Przeczytaj następującą stronę, aby uzyskać **wprowadzenie:**
+**W metodologii CI/CD HackTricks znajdziesz, jak przeprowadzać pentesting infrastruktury związanej z działalnością CI/CD.** Przeczytaj następującą stronę, aby uzyskać **wprowadzenie:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -33,7 +33,7 @@ Witamy na stronie, na której znajdziesz każdy **trik/technikę/hacking związa
 
 ### Metodologia Pentestingu Chmury
 
-**W metodologii Chmury HackTricks znajdziesz, jak przeprowadzić pentesting środowisk chmurowych.** Przeczytaj następującą stronę, aby uzyskać **wprowadzenie:**
+**W metodologii Chmury HackTricks znajdziesz, jak przeprowadzać pentesting środowisk chmurowych.** Przeczytaj następującą stronę, aby uzyskać **wprowadzenie:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -61,7 +61,7 @@ Ucz się i ćwicz GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" d
 
 * Sprawdź [**plany subskrypcyjne**](https://github.com/sponsors/carlospolop)!
 * **Dołącz do** 💬 [**grupy Discord**](https://discord.gg/hRep4RUj7f) lub [**grupy telegramowej**](https://t.me/peass) lub **śledź** nas na **Twitterze** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
-* **Podziel się trikami hackingowymi, przesyłając PR-y do** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repozytoriów na GitHubie.
+* **Podziel się trikami hackingowymi, przesyłając PR-y do** [**HackTricks**](https://github.com/carlospolop/hacktricks) i [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repozytoriów github.
 
 </details>
 {% endhint %}
