@@ -9,7 +9,7 @@ Apprenez et pratiquez le hacking GCP : <img src=".gitbook/assets/image (2).png" 
 <summary>Support HackTricks</summary>
 
 * Consultez les [**plans d'abonnement**](https://github.com/sponsors/carlospolop)!
-* **Rejoignez le** 💬 [**groupe Discord**](https://discord.gg/hRep4RUj7f) ou le [**groupe telegram**](https://t.me/peass) ou **suivez-nous sur** **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **Rejoignez le** 💬 [**groupe Discord**](https://discord.gg/hRep4RUj7f) ou le [**groupe telegram**](https://t.me/peass) ou **suivez** nous sur **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
 * **Partagez des astuces de hacking en soumettant des PRs aux** [**HackTricks**](https://github.com/carlospolop/hacktricks) et [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) dépôts github.
 
 </details>
@@ -20,7 +20,7 @@ Apprenez et pratiquez le hacking GCP : <img src=".gitbook/assets/image (2).png" 
 _Les logos et animations de Hacktricks sont conçus par_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Bienvenue sur la page où vous trouverez chaque **astuce/technique de hacking/quoi que ce soit lié à CI/CD & Cloud** que j'ai appris dans **CTFs**, **la vraie** vie **environnements**, **recherches**, et **lecture** de recherches et d'actualités.
+Bienvenue sur la page où vous trouverez chaque **astuce/technique de hacking/quoi que ce soit lié à CI/CD & Cloud** que j'ai appris dans **CTFs**, **la** vie **réelle**, **la recherche**, et **la lecture** de recherches et d'actualités.
 {% endhint %}
 
 ### **Méthodologie de Pentesting CI/CD**
@@ -60,7 +60,7 @@ Apprenez et pratiquez le hacking GCP : <img src=".gitbook/assets/image (2).png" 
 <summary>Support HackTricks</summary>
 
 * Consultez les [**plans d'abonnement**](https://github.com/sponsors/carlospolop)!
-* **Rejoignez le** 💬 [**groupe Discord**](https://discord.gg/hRep4RUj7f) ou le [**groupe telegram**](https://t.me/peass) ou **suivez-nous sur** **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **Rejoignez le** 💬 [**groupe Discord**](https://discord.gg/hRep4RUj7f) ou le [**groupe telegram**](https://t.me/peass) ou **suivez** nous sur **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
 * **Partagez des astuces de hacking en soumettant des PRs aux** [**HackTricks**](https://github.com/carlospolop/hacktricks) et [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) dépôts github.
 
 </details>
