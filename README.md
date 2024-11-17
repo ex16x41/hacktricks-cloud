@@ -1,7 +1,7 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-AWS Hacking'i öğrenin ve pratik yapın:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+AWS Hacking'i öğrenin ve pratik yapın:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 GCP Hacking'i öğrenin ve pratik yapın: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -9,7 +9,7 @@ GCP Hacking'i öğrenin ve pratik yapın: <img src=".gitbook/assets/image (2).pn
 <summary>HackTricks'i Destekleyin</summary>
 
 * [**abonelik planlarını**](https://github.com/sponsors/carlospolop) kontrol edin!
-* **💬 [**Discord grubuna**](https://discord.gg/hRep4RUj7f) veya [**telegram grubuna**](https://t.me/peass) katılın ya da **Twitter**'da **bizi takip edin** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **💬 [**Discord grubuna**](https://discord.gg/hRep4RUj7f) veya [**telegram grubuna**](https://t.me/peass) katılın ya da **Twitter'da** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)** bizi takip edin.**
 * **Hacking ipuçlarını paylaşmak için** [**HackTricks**](https://github.com/carlospolop/hacktricks) ve [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github reposuna PR gönderin.
 
 </details>
@@ -20,12 +20,12 @@ GCP Hacking'i öğrenin ve pratik yapın: <img src=".gitbook/assets/image (2).pn
 _Hacktricks logoları ve hareket tasarımı_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_ tarafından yapılmıştır._
 
 {% hint style="success" %}
-**CTF'lerde**, **gerçek** yaşam **ortamlarında**, **araştırma** yaparak ve **araştırmaları** ve haberleri okuyarak öğrendiğim her **hacking ipucu/teknik/CI/CD & Cloud ile ilgili her şey** bulacağınız sayfaya hoş geldiniz.
+**CTF'lerde**, **gerçek** yaşam **ortamlarında**, **araştırma yaparak** ve **araştırmaları ve haberleri okuyarak** öğrendiğim her **hacking ipucu/teknik/CI/CD & Cloud ile ilgili her şey** bulacağınız sayfaya hoş geldiniz.
 {% endhint %}
 
 ### **Pentesting CI/CD Metodolojisi**
 
-**HackTricks CI/CD Metodolojisi'nde CI/CD faaliyetleri ile ilgili altyapıyı nasıl pentest edeceğinizi bulacaksınız.** Bir **giriş için** aşağıdaki sayfayı okuyun:
+**HackTricks CI/CD Metodolojisinde, CI/CD faaliyetleri ile ilgili altyapıyı nasıl pentest edeceğinizi bulacaksınız.** **Giriş için** aşağıdaki sayfayı okuyun:
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -33,7 +33,7 @@ _Hacktricks logoları ve hareket tasarımı_ [_@ppiernacho_](https://www.instagr
 
 ### Pentesting Cloud Metodolojisi
 
-**HackTricks Cloud Metodolojisi'nde bulut ortamlarını nasıl pentest edeceğinizi bulacaksınız.** Bir **giriş için** aşağıdaki sayfayı okuyun:
+**HackTricks Cloud Metodolojisinde, bulut ortamlarını nasıl pentest edeceğinizi bulacaksınız.** **Giriş için** aşağıdaki sayfayı okuyun:
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -52,7 +52,7 @@ _Hacktricks logoları ve hareket tasarımı_ [_@ppiernacho_](https://www.instagr
 ![HackTricks Cloud Github İstatistikleri](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-AWS Hacking'i öğrenin ve pratik yapın:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+AWS Hacking'i öğrenin ve pratik yapın:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 GCP Hacking'i öğrenin ve pratik yapın: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -60,7 +60,7 @@ GCP Hacking'i öğrenin ve pratik yapın: <img src=".gitbook/assets/image (2).pn
 <summary>HackTricks'i Destekleyin</summary>
 
 * [**abonelik planlarını**](https://github.com/sponsors/carlospolop) kontrol edin!
-* **💬 [**Discord grubuna**](https://discord.gg/hRep4RUj7f) veya [**telegram grubuna**](https://t.me/peass) katılın ya da **Twitter**'da **bizi takip edin** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **💬 [**Discord grubuna**](https://discord.gg/hRep4RUj7f) veya [**telegram grubuna**](https://t.me/peass) katılın ya da **Twitter'da** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)** bizi takip edin.**
 * **Hacking ipuçlarını paylaşmak için** [**HackTricks**](https://github.com/carlospolop/hacktricks) ve [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github reposuna PR gönderin.
 
 </details>
