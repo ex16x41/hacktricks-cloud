@@ -1,7 +1,7 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-AWS 해킹을 배우고 연습하세요:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+AWS 해킹을 배우고 연습하세요:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 GCP 해킹을 배우고 연습하세요: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -17,7 +17,7 @@ GCP 해킹을 배우고 연습하세요: <img src=".gitbook/assets/image (2).png
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks 로고 및 모션 디자인은_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_에 의해 제작되었습니다._
+_Hacktricks 로고 및 모션 디자인: _[_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
 CI/CD 및 클라우드와 관련된 각 **해킹 트릭/기술/무엇이든**을 찾을 수 있는 페이지에 오신 것을 환영합니다. 이 모든 것은 **CTFs**, **실제** 환경, **연구**, **연구 및 뉴스 읽기**를 통해 배운 것입니다.
@@ -52,7 +52,7 @@ CI/CD 및 클라우드와 관련된 각 **해킹 트릭/기술/무엇이든**을
 ![HackTricks Cloud Github Stats](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-AWS 해킹을 배우고 연습하세요:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+AWS 해킹을 배우고 연습하세요:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 GCP 해킹을 배우고 연습하세요: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
