@@ -1,8 +1,8 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-Impara e pratica l'Hacking AWS:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
-Impara e pratica l'Hacking GCP: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
+Impara e pratica l'Hacking su AWS:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
+Impara e pratica l'Hacking su GCP: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
 
@@ -25,7 +25,7 @@ Benvenuto nella pagina dove troverai ogni **trucco/tecnica/qualunque cosa relati
 
 ### **Metodologia di Pentesting CI/CD**
 
-**Nella Metodologia CI/CD di HackTricks troverai come effettuare pentesting su infrastrutture relative ad attività CI/CD.** Leggi la pagina seguente per un'**introduzione:**
+**Nella metodologia CI/CD di HackTricks troverai come effettuare pentesting su infrastrutture relative ad attività CI/CD.** Leggi la pagina seguente per un'**introduzione:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -33,7 +33,7 @@ Benvenuto nella pagina dove troverai ogni **trucco/tecnica/qualunque cosa relati
 
 ### Metodologia di Pentesting Cloud
 
-**Nella Metodologia Cloud di HackTricks troverai come effettuare pentesting su ambienti cloud.** Leggi la pagina seguente per un'**introduzione:**
+**Nella metodologia Cloud di HackTricks troverai come effettuare pentesting su ambienti cloud.** Leggi la pagina seguente per un'**introduzione:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -44,7 +44,7 @@ Benvenuto nella pagina dove troverai ogni **trucco/tecnica/qualunque cosa relati
 **Controllali in:**
 
 {% content-ref url="https://app.gitbook.com/s/-L_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq" %}
-[HackTricks Values & FAQ](https://app.gitbook.com/s/-L\_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
+[Valori & FAQ di HackTricks](https://app.gitbook.com/s/-L\_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
 {% endcontent-ref %}
 
 ### Statistiche Github
@@ -52,8 +52,8 @@ Benvenuto nella pagina dove troverai ogni **trucco/tecnica/qualunque cosa relati
 ![Statistiche Github di HackTricks Cloud](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-Impara e pratica l'Hacking AWS:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
-Impara e pratica l'Hacking GCP: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
+Impara e pratica l'Hacking su AWS:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
+Impara e pratica l'Hacking su GCP: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
 
