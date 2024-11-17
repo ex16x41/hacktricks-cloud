@@ -1,7 +1,7 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 Μάθετε & εξασκηθείτε στο GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -25,7 +25,7 @@ _Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν α�
 
 ### **Μεθοδολογία Pentesting CI/CD**
 
-**Στη Μεθοδολογία CI/CD του HackTricks θα βρείτε πώς να κάνετε pentest υποδομές σχετικές με δραστηριότητες CI/CD.** Διαβάστε την επόμενη σελίδα για μια **εισαγωγή:**
+**Στη Μεθοδολογία CI/CD του HackTricks θα βρείτε πώς να κάνετε pentest υποδομές που σχετίζονται με δραστηριότητες CI/CD.** Διαβάστε την επόμενη σελίδα για μια **εισαγωγή:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -52,7 +52,7 @@ _Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν α�
 ![HackTricks Cloud Github Stats](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 Μάθετε & εξασκηθείτε στο GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
