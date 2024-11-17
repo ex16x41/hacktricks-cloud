@@ -1,7 +1,7 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-学习和实践 AWS 黑客技术：<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks 培训 AWS 红队专家 (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+学习和实践 AWS 黑客技术：<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks 培训 AWS 红队专家 (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 学习和实践 GCP 黑客技术：<img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks 培训 GCP 红队专家 (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -17,10 +17,10 @@
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks 标志和动画设计由_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Hacktricks 标志和动态设计由_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-欢迎来到您将找到与 CI/CD 和云相关的每个 **黑客技巧/技术/相关内容** 的页面，我在 **CTFs**、**真实** 生活 **环境**、**研究** 和 **阅读** 研究和新闻中学到的。
+欢迎来到您将找到与 CI/CD 和云相关的每个 **黑客技巧/技术/任何内容** 的页面，我在 **CTFs**、**真实** 生活 **环境**、**研究** 和 **阅读** 研究和新闻中学到的。
 {% endhint %}
 
 ### **渗透测试 CI/CD 方法论**
@@ -52,7 +52,7 @@ _Hacktricks 标志和动画设计由_ [_@ppiernacho_](https://www.instagram.com/
 ![HackTricks Cloud Github 统计](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-学习和实践 AWS 黑客技术：<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks 培训 AWS 红队专家 (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+学习和实践 AWS 黑客技术：<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks 培训 AWS 红队专家 (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 学习和实践 GCP 黑客技术：<img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks 培训 GCP 红队专家 (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
