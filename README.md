@@ -1,7 +1,7 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-Aprenda e pratique Hacking AWS:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+Aprenda e pratique Hacking AWS:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 Aprenda e pratique Hacking GCP: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -20,12 +20,12 @@ Aprenda e pratique Hacking GCP: <img src=".gitbook/assets/image (2).png" alt="" 
 _Logos e animações do Hacktricks projetados por_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Bem-vindo à página onde você encontrará cada **truque/técnica de hacking/qualquer coisa relacionada a CI/CD & Cloud** que aprendi em **CTFs**, **ambientes** da **vida real**, **pesquisando** e **lendo** pesquisas e notícias.
+Bem-vindo à página onde você encontrará cada **truque/técnica de hacking/qualquer coisa relacionada a CI/CD & Cloud** que aprendi em **CTFs**, **ambientes** **reais**, **pesquisando** e **lendo** pesquisas e notícias.
 {% endhint %}
 
 ### **Metodologia de Pentesting CI/CD**
 
-**Na Metodologia de CI/CD do HackTricks você encontrará como pentestar a infraestrutura relacionada a atividades de CI/CD.** Leia a página a seguir para uma **introdução:**
+**Na Metodologia CI/CD do HackTricks você encontrará como pentestar infraestrutura relacionada a atividades de CI/CD.** Leia a página a seguir para uma **introdução:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -33,7 +33,7 @@ Bem-vindo à página onde você encontrará cada **truque/técnica de hacking/qu
 
 ### Metodologia de Pentesting Cloud
 
-**Na Metodologia de Cloud do HackTricks você encontrará como pentestar ambientes de cloud.** Leia a página a seguir para uma **introdução:**
+**Na Metodologia Cloud do HackTricks você encontrará como pentestar ambientes de cloud.** Leia a página a seguir para uma **introdução:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -52,7 +52,7 @@ Bem-vindo à página onde você encontrará cada **truque/técnica de hacking/qu
 ![Estatísticas do Github HackTricks Cloud](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-Aprenda e pratique Hacking AWS:<img src=".gitbook/assets/image (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1).png" alt="" data-size="line">\
+Aprenda e pratique Hacking AWS:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
 Aprenda e pratique Hacking GCP: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
