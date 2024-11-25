@@ -1,7 +1,7 @@
 # HackTricks Cloud
 
 {% hint style="success" %}
-Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
+Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">\
 Μάθετε & εξασκηθείτε στο GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -9,7 +9,7 @@
 <summary>Υποστήριξη HackTricks</summary>
 
 * Ελέγξτε τα [**σχέδια συνδρομής**](https://github.com/sponsors/carlospolop)!
-* **Εγγραφείτε στην** 💬 [**ομάδα Discord**](https://discord.gg/hRep4RUj7f) ή στην [**ομάδα telegram**](https://t.me/peass) ή **ακολουθήστε** μας στο **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **Εγγραφείτε στην** 💬 [**ομάδα Discord**](https://discord.gg/hRep4RUj7f) ή στην [**ομάδα telegram**](https://t.me/peass) ή **ακολουθήστε** μας στο **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks_live)**.**
 * **Μοιραστείτε κόλπα hacking υποβάλλοντας PRs στα** [**HackTricks**](https://github.com/carlospolop/hacktricks) και [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
 
 </details>
@@ -17,7 +17,7 @@
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν από_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Λογότυπα Hacktricks & κίνηση σχεδιασμένα από_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
 Καλώς ήρθατε στη σελίδα όπου θα βρείτε κάθε **κόλπο/τεχνική hacking/οτιδήποτε σχετίζεται με CI/CD & Cloud** που έχω μάθει σε **CTFs**, **πραγματικές** συνθήκες **ζωής**, **έρευνες**, και **διάβασμα** ερευνών και ειδήσεων.
@@ -41,10 +41,10 @@ _Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν α�
 
 ### Άδεια & Αποποίηση Ευθύνης
 
-**Ελέγξτε τα σε:**
+**Ελέγξτε τα εδώ:**
 
 {% content-ref url="https://app.gitbook.com/s/-L_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq" %}
-[HackTricks Values & FAQ](https://app.gitbook.com/s/-L\_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
+[HackTricks Values & FAQ](https://app.gitbook.com/s/-L_2uGJGU7AVNRcqRvEi/welcome/hacktricks-values-and-faq)
 {% endcontent-ref %}
 
 ### Στατιστικά Github
@@ -52,7 +52,7 @@ _Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν α�
 ![HackTricks Cloud Github Stats](https://repobeats.axiom.co/api/embed/1dfdbb0435f74afa9803cd863f01daac17cda336.svg)
 
 {% hint style="success" %}
-Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="line">\
+Μάθετε & εξασκηθείτε στο AWS Hacking:<img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">[**HackTricks Training AWS Red Team Expert (ARTE)**](https://training.hacktricks.xyz/courses/arte)<img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">\
 Μάθετε & εξασκηθείτε στο GCP Hacking: <img src=".gitbook/assets/image (2).png" alt="" data-size="line">[**HackTricks Training GCP Red Team Expert (GRTE)**<img src=".gitbook/assets/image (2).png" alt="" data-size="line">](https://training.hacktricks.xyz/courses/grte)
 
 <details>
@@ -60,7 +60,7 @@ _Τα λογότυπα Hacktricks & η κίνηση σχεδιάστηκαν α�
 <summary>Υποστήριξη HackTricks</summary>
 
 * Ελέγξτε τα [**σχέδια συνδρομής**](https://github.com/sponsors/carlospolop)!
-* **Εγγραφείτε στην** 💬 [**ομάδα Discord**](https://discord.gg/hRep4RUj7f) ή στην [**ομάδα telegram**](https://t.me/peass) ή **ακολουθήστε** μας στο **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks\_live)**.**
+* **Εγγραφείτε στην** 💬 [**ομάδα Discord**](https://discord.gg/hRep4RUj7f) ή στην [**ομάδα telegram**](https://t.me/peass) ή **ακολουθήστε** μας στο **Twitter** 🐦 [**@hacktricks\_live**](https://twitter.com/hacktricks_live)**.**
 * **Μοιραστείτε κόλπα hacking υποβάλλοντας PRs στα** [**HackTricks**](https://github.com/carlospolop/hacktricks) και [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
 
 </details>
